@@ -1,7 +1,8 @@
+# Use SDK Image
 FROM mcr.microsoft.com/dotnet/core/sdk:2.2 AS build-env
 WORKDIR /app
 
-# Copy csproj and restore 
+# Copy csproj and restore for dependencies 
 COPY *.csproj ./
 RUN dotnet restore
 
@@ -9,7 +10,7 @@ RUN dotnet restore
 COPY . ./
 RUN dotnet publish -c Release -o out
 
-# Build runtime image
+# Build runtime image & Expose Port
 FROM mcr.microsoft.com/dotnet/core/aspnet:2.2
 WORKDIR /app
 EXPOSE 80
