@@ -1,5 +1,6 @@
 # Use SDK Image
 FROM mcr.microsoft.com/dotnet/core/sdk:2.2 AS build-env
+MAINTAINER Aditya Mandil
 WORKDIR /app
 
 # Copy csproj and restore for dependencies 
