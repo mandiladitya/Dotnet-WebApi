@@ -1,0 +1,14 @@
+/home/aditya/Desktop/AdityaWebApi/bin/Debug/netcoreapp2.1/AdityaWebApi.deps.json
+/home/aditya/Desktop/AdityaWebApi/bin/Debug/netcoreapp2.1/AdityaWebApi.runtimeconfig.json
+/home/aditya/Desktop/AdityaWebApi/bin/Debug/netcoreapp2.1/AdityaWebApi.runtimeconfig.dev.json
+/home/aditya/Desktop/AdityaWebApi/bin/Debug/netcoreapp2.1/AdityaWebApi.dll
+/home/aditya/Desktop/AdityaWebApi/bin/Debug/netcoreapp2.1/AdityaWebApi.pdb
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.csprojAssemblyReference.cache
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.csproj.CoreCompileInputs.cache
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.RazorAssemblyInfo.cache
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.RazorAssemblyInfo.cs
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.AssemblyInfoInputs.cache
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.AssemblyInfo.cs
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.RazorTargetAssemblyInfo.cache
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.dll
+/home/aditya/Desktop/AdityaWebApi/obj/Debug/netcoreapp2.1/AdityaWebApi.pdb
